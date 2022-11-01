@@ -52,6 +52,9 @@ p {
   .row {
     margin-bottom: 30px;
   }
+  #page-top {
+    display: none !important;
+  }
 }
 
 .card {
